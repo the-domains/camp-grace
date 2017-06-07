@@ -1,6 +1,28 @@
-typography_spectrum: 0.4417189705735164
-content_rating:
-  adult: false
+name: Camp F.U.S.E.
+analytics: {}
+purpose:
+  - type: external
+    url: >-
+      https://renovationcommunity.easytitheplus.com/external/form/97df4dcb-456e-4785-9528-b4c79e79df6c
+    label: Register Now!
+  - type: internal
+    label: Donate
+    item: 815ed415-3fa7-4051-9403-6b4f09a6feef
+github: true
+description: >-
+  Summer Day Camp in SW Fort Worth. Find your purpose. Use your gifts. Share
+  your faith. Expand your knowledge.
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: Renovation Community Church
+  url: 'http://renovationcommunity.church'
+  email: jordan@renovationcommunity.church
 color:
   lightness: 0.8964820198545067
   brandColors:
@@ -12,42 +34,6 @@ color:
   saturation: 0.08242902841280667
   brandStrength: 0.3703778265102186
   rhythmicContrast: 0.3285291175429921
-github: true
-opengraph: {}
-layout_spectrum: 0.8177013408092063
-analytics: {}
-author:
-  name: Renovation Community Church
-  url: 'http://renovationcommunity.church'
-  email: jordan@renovationcommunity.church
-name: Camp F.U.S.E.
-url: 'http://campfuse.com'
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-navigation:
-  - name: A ministry of Renovation Community
-    url: 'https://renovationcommunity.church'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3b110f8-b07d-4447-9efb-24e669268917.jpg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Camp F.U.S.E.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -58,27 +44,7 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      datePublished: null
-      isBasedOnUrl: 'https://youtu.be/ha3utRo6ZWA'
-      keywords:
-        - trebek
-        - spicer
-        - available
-        - snl
-        - '711'
-        - maher
-        - milo
-        - hbo
-        - '330'
-        - overtime
-      related: []
-      author:
-        - name: Jordan Buchner
-          url: 'https://www.youtube.com/channel/UCBbt_64Hm__9i6f9rS47Dpw'
-          avatar: {}
-      '@context': 'http://schema.org'
-      title: camp cover video 2
-      '@type': VideoObject
+      description: Uploaded by Jordan Buchner on 2017-02-23.
       app_links:
         - app_store_id: '544007664'
           namespace: ai
@@ -116,24 +82,54 @@ content:
           package: '544007664'
           namespace: google
           type: ios
+      datePublished: null
+      author:
+        - name: Jordan Buchner
+          url: 'https://www.youtube.com/channel/UCBbt_64Hm__9i6f9rS47Dpw'
+          avatar: {}
+      inLanguage: en
+      '@type': VideoObject
       publisher:
         favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
         url: 'https://www.youtube.com/'
         name: YouTube
         domain: youtu.be
-      description: Uploaded by Jordan Buchner on 2017-02-23.
-      inLanguage: en
+      isBasedOnUrl: 'https://youtu.be/ha3utRo6ZWA'
+      keywords:
+        - trebek
+        - spicer
+        - available
+        - snl
+        - '711'
+        - maher
+        - milo
+        - hbo
+        - '330'
+        - overtime
+      title: camp cover video 2
+      '@context': 'http://schema.org'
+      related: []
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: >-
-  Summer Day Camp in SW Fort Worth. Find your purpose. Use your gifts. Share
-  your faith. Expand your knowledge.
-purpose:
-  - type: external
-    url: >-
-      https://renovationcommunity.easytitheplus.com/external/form/97df4dcb-456e-4785-9528-b4c79e79df6c
-    label: Register Now!
-  - type: internal
-    label: Donate
-    item: 815ed415-3fa7-4051-9403-6b4f09a6feef
+layout_spectrum: 0.8177013408092063
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3b110f8-b07d-4447-9efb-24e669268917.jpg
+content_rating:
+  adult: false
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4417189705735164
+opengraph: {}
+title: Camp F.U.S.E.
+url: 'http://campfuse.com'
