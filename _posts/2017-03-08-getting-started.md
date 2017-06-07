@@ -1,14 +1,14 @@
 ---
-inFeed: true
-description: ''
-dateModified: '2017-05-19T19:39:08.979Z'
-datePublished: '2017-05-19T19:39:09.403Z'
-title: New? START HERE!
-author: []
 publisher: {}
+datePublished: '2017-05-20T17:10:37.475Z'
+dateModified: '2017-05-20T17:10:23.777Z'
+description: ''
 via: {}
-hasPage: true
 sourcePath: _posts/2017-03-08-getting-started.md
+title: New? START HERE!
+hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-05-18T18:11:53.062Z'
 url: new-start-here/index.html
@@ -72,4 +72,4 @@ Join us for F.U.S.I.O.N and become a Young Camp Leader (YCL)!
 [2]: http://campfuse.com/extended-fun
 [3]: http://campfuse.com/contact-us "here!"
 [4]: http://campfuse.com/fusion
-[5]: http://campfuse.com/faq
+[5]: http://campfuse.com/faq "Optional("Frequently Asked Questions")"
