@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Camp F.U.S.E doesn’t want any child turned away!
-dateModified: '2017-05-19T19:35:21.303Z'
-datePublished: '2017-05-19T19:35:21.734Z'
+dateModified: '2017-05-19T19:51:15.119Z'
+datePublished: '2017-05-19T19:51:15.627Z'
 title: Scholarships!
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-05-19-scholarships.md
 starred: false
 datePublishedOriginal: '2017-05-19T19:35:21.734Z'
-sourcePath: _posts/2017-05-19-scholarships.md
 url: scholarships/index.html
 _type: Article
 
