@@ -9,9 +9,11 @@ purpose:
     label: Donate
     item: 815ed415-3fa7-4051-9403-6b4f09a6feef
 github: true
-description: >-
-  Summer Day Camp in SW Fort Worth. Find your purpose. Use your gifts. Share
-  your faith. Expand your knowledge.
+description: Find your purpose. Use your gifts. Share your faith. Expand your knowledge.
+author:
+  name: Renovation Community Church
+  url: 'http://renovationcommunity.church'
+  email: jordan@renovationcommunity.church
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -19,21 +21,18 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author:
-  name: Renovation Community Church
-  url: 'http://renovationcommunity.church'
-  email: jordan@renovationcommunity.church
-color:
-  lightness: 0.8964820198545067
-  brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  saturation: 0.08242902841280667
-  brandStrength: 0.3703778265102186
-  rhythmicContrast: 0.3285291175429921
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -113,22 +112,21 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 layout_spectrum: 0.8177013408092063
+color:
+  lightness: 0.8964820198545067
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  saturation: 0.08242902841280667
+  brandStrength: 0.3703778265102186
+  rhythmicContrast: 0.3285291175429921
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3b110f8-b07d-4447-9efb-24e669268917.jpg
 content_rating:
   adult: false
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.4417189705735164
 opengraph: {}
 title: Camp F.U.S.E.
