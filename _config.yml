@@ -1,0 +1,139 @@
+typography_spectrum: 0.4417189705735164
+content_rating:
+  adult: false
+color:
+  lightness: 0.8964820198545067
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  saturation: 0.08242902841280667
+  brandStrength: 0.3703778265102186
+  rhythmicContrast: 0.3285291175429921
+github: true
+opengraph: {}
+layout_spectrum: 0.8177013408092063
+analytics: {}
+author:
+  name: Renovation Community Church
+  url: 'http://renovationcommunity.church'
+  email: jordan@renovationcommunity.church
+name: Camp F.U.S.E.
+url: 'http://campfuse.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: A ministry of Renovation Community
+    url: 'https://renovationcommunity.church'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3b110f8-b07d-4447-9efb-24e669268917.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Camp F.U.S.E.
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fha3utRo6ZWA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dha3utRo6ZWA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fha3utRo6ZWA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/ha3utRo6ZWA'
+      keywords:
+        - trebek
+        - spicer
+        - available
+        - snl
+        - '711'
+        - maher
+        - milo
+        - hbo
+        - '330'
+        - overtime
+      related: []
+      author:
+        - name: Jordan Buchner
+          url: 'https://www.youtube.com/channel/UCBbt_64Hm__9i6f9rS47Dpw'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: camp cover video 2
+      '@type': VideoObject
+      app_links:
+        - app_store_id: '544007664'
+          namespace: ai
+          app_name: YouTube
+          url: 'vnd.youtube://www.youtube.com/watch?v=ha3utRo6ZWA&feature=applinks'
+          type: ios
+        - package: com.google.android.youtube
+          app_name: YouTube
+          namespace: ai
+          url: 'vnd.youtube://www.youtube.com/watch?v=ha3utRo6ZWA&feature=applinks'
+          type: android
+        - url: 'https://www.youtube.com/watch?v=ha3utRo6ZWA&feature=applinks'
+          type: web
+          namespace: ai
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=ha3utRo6ZWA&feature=applinks'
+          type: ipad
+          name: YouTube
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=ha3utRo6ZWA&feature=applinks'
+          type: iphone
+          name: YouTube
+        - id: com.google.android.youtube
+          namespace: twitter
+          url: 'https://www.youtube.com/watch?v=ha3utRo6ZWA'
+          type: googleplay
+          name: YouTube
+        - path: http/www.youtube.com/watch?v=ha3utRo6ZWA
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=ha3utRo6ZWA
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        domain: youtu.be
+      description: Uploaded by Jordan Buchner on 2017-02-23.
+      inLanguage: en
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Summer Day Camp in SW Fort Worth. Find your purpose. Use your gifts. Share
+  your faith. Expand your knowledge.
+purpose:
+  - type: external
+    url: >-
+      https://renovationcommunity.easytitheplus.com/external/form/97df4dcb-456e-4785-9528-b4c79e79df6c
+    label: Register Now!
+  - type: internal
+    label: Donate
+    item: 815ed415-3fa7-4051-9403-6b4f09a6feef
