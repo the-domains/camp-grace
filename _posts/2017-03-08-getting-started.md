@@ -1,14 +1,14 @@
 ---
-inFeed: true
-description: ''
-dateModified: '2017-05-18T18:11:22.734Z'
-datePublished: '2017-05-18T18:11:53.062Z'
-title: New? START HERE!
-author: []
 publisher: {}
+datePublished: '2017-06-01T17:06:55.281Z'
+dateModified: '2017-06-01T17:06:54.693Z'
+description: ''
 via: {}
-hasPage: true
 sourcePath: _posts/2017-03-08-getting-started.md
+title: New? START HERE!
+hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-05-18T18:11:53.062Z'
 url: new-start-here/index.html
@@ -37,20 +37,20 @@ Camp F.U.S.E. is NOT a licensed childcare/daycare center; it is a ministry of a 
 
 ---
 
-_\*Get the Early Bird special before May 1st for $85 and save big!_
+_\*Get the Early Bird special before May 31st for $85 and save big!_
 
 ## Times
 
 Monday -- Thursday 8 am- 3 pm
 
 Extended hours are available through our Extended Fun package for $25 per week except for week 4 in which the cost is $10\.
-
-_\*Get the Fun Deal before May 1st for $150 and save big!_
 [Read more and sign up for Extended Fun!][2]
 
 ## Parent Meeting Dates
 
-April 17th or 24th 6:30-8 pm
+April 17th or 24th, 6:30-7 pm
+
+June 6 or June 8th, 6-6:30, or 6:30-7:00
 
 These meetings are not required but are highly encouraged. If you have questions after these dates have passed, please find our contact information [here!][3]
 
@@ -58,13 +58,18 @@ _Cash accepted at parent meeting only, otherwise register online with credit or 
 
 ## Eligibility
 
-Camp F.U.S.E is open to children ages 5-13 entering kindergarten -- 8th grade. Outgrown camp, but I want to participate?
+Camp F.U.S.E is open to children ages 5-13 entering kindergarten -- 8th grade. Outgrown camp, but want to participate?
 
 Join us for F.U.S.I.O.N and become a Young Camp Leader (YCL)!
 [Read more and sign up for FUSION!][4]
+
+## HAVE MORE QUESTIONS?
+
+## **[GO TO OUR FAQ PAGE][5]**
 
 [0]: http://renovationcommunity.church/
 [1]: https://www.cognitoforms.com/RenovationCommunity1/CampFUSERegistration
 [2]: http://campfuse.com/extended-fun
 [3]: http://campfuse.com/contact-us "here!"
 [4]: http://campfuse.com/fusion
+[5]: http://campfuse.com/faq "Optional("Frequently Asked Questions")"
