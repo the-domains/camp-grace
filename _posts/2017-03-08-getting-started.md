@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-01T17:06:55.281Z'
-dateModified: '2017-06-01T17:06:54.693Z'
+datePublished: '2017-06-09T17:39:36.632Z'
+dateModified: '2017-06-09T17:39:36.110Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
@@ -68,7 +68,7 @@ Join us for F.U.S.I.O.N and become a Young Camp Leader (YCL)!
 ## **[GO TO OUR FAQ PAGE][5]**
 
 [0]: http://renovationcommunity.church/
-[1]: https://www.cognitoforms.com/RenovationCommunity1/CampFUSERegistration
+[1]: https://renovationcommunity.easytitheplus.com/external/form/97df4dcb-456e-4785-9528-b4c79e79df6c
 [2]: http://campfuse.com/extended-fun
 [3]: http://campfuse.com/contact-us "here!"
 [4]: http://campfuse.com/fusion
