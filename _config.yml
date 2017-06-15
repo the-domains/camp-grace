@@ -134,6 +134,7 @@ purpose:
     url: >-
       https://renovationcommunity.easytitheplus.com/external/form/97df4dcb-456e-4785-9528-b4c79e79df6c
     label: Registration is Closed
-  - type: internal
-    label: Donate
-    item: 815ed415-3fa7-4051-9403-6b4f09a6feef
+  - type: external
+    label: Week-to-Week
+    url: >-
+      https://renovationcommunity.easytitheplus.com/external/form/38a6d201-25a3-45b5-8205-cdb984ceedc5
