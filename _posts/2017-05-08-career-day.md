@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-05-30T02:21:22.987Z'
-datePublished: '2017-05-30T02:21:23.195Z'
+dateModified: '2018-02-19T22:33:11.989Z'
+datePublished: '2018-02-19T22:33:12.552Z'
 title: Career Day
 author: []
 publisher: {}
@@ -24,4 +24,4 @@ _type: Article
 Inspire the next generation to choose a career in your industry! Inform our campers about your career. Career Day presentations usually last one hour. Speakers are encouraged to bring anything related to your career that will keep campers' attention: hands-on items, videos, vehicles to explore, tools to touch, handouts, uniforms, and even your company's promotional material.
 [I want to be a Career Day Speaker!][0]
 
-[0]: https://renovationcommunity.easytitheplus.com/external/form/d9d74850-fd85-46ef-9b6c-975a5a305ff5
+[0]: https://renovationcommunity.breezechms.com/form/3bc936
