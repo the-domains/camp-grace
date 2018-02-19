@@ -4,9 +4,9 @@
         <description><![CDATA[Camp F.U.S.E.]]></description>
         <link>http://campfuse.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Oct 2017 21:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2018 22:33:15 GMT</lastBuildDate>
         <atom:link href="http://campfuse.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Oct 2017 21:51:27 GMT</pubDate>
+        <pubDate>Mon, 19 Feb 2018 22:33:13 GMT</pubDate>
         <item>
             <title><![CDATA[New? START HERE!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68a7ac0-79cf-427f-8264-72dd00662d5d.jpg">,<h1>New? START HERE!</h1>]]></description>
@@ -62,6 +62,13 @@
             <link>http://campfuse.com/volunteering/index.html</link>
             <guid isPermaLink="false">133bcf46-c139-46c7-b155-5f8c345f5481</guid>
             <pubDate>Thu, 23 Feb 2017 13:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Career Day]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02c638a6-5b1c-49d9-85e0-43efea40274b.jpg">,<h1>Career Day</h1>]]></description>
+            <link>http://campfuse.com/career-day/index.html</link>
+            <guid isPermaLink="false">32542f73-5313-4dc4-8fcb-09b9d0f214ff</guid>
+            <pubDate>Mon, 08 May 2017 21:20:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
