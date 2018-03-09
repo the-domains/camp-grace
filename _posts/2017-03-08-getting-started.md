@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-29T18:34:47.251Z'
-dateModified: '2017-09-29T18:34:45.821Z'
+datePublished: '2018-03-09T20:47:03.563Z'
+dateModified: '2018-03-09T20:47:03.004Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
