@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Camp F.U.S.E doesn’t want any child turned away!
-dateModified: '2017-05-19T19:52:48.166Z'
-datePublished: '2017-05-19T19:52:48.351Z'
+dateModified: '2018-03-09T20:46:53.858Z'
+datePublished: '2018-03-09T20:46:54.257Z'
 title: Scholarships!
 author: []
 publisher: {}
@@ -10,7 +10,7 @@ via: {}
 hasPage: true
 sourcePath: _posts/2017-05-19-scholarships.md
 starred: false
-datePublishedOriginal: '2017-05-19T19:35:21.734Z'
+datePublishedOriginal: '2017-05-30T04:30:33.688Z'
 url: scholarships/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ Camp F.U.S.E doesn't want any child turned away!
 
 Scholarships are given on a case-by-case basis.
 
-To request a scholarship you must email the following information (_please block out all sensitive information such as bank account numbers and social security numbers before emailing documents_):
+To request a $1/day or $2/day scholarship, you must email the following information (_please block out all sensitive information such as bank account numbers and social security numbers before emailing documents_). If your scholarship request is approved, we will send you a special registration link with the reduced rates. This is the only way to pay at reduced rates. Please send us:
 
 * Proof of income: benefits letter (SNAP, SSI/SSDI, TANF) or check stubs for the last 30 days
 * Bank statement
