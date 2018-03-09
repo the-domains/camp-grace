@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-03-09T20:59:21.773Z'
-dateModified: '2018-03-09T20:59:21.363Z'
+datePublished: '2018-03-09T20:59:59.612Z'
+dateModified: '2018-03-09T20:59:59.140Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
@@ -35,6 +35,7 @@ Camp F.U.S.E. is NOT a licensed childcare/daycare center; it is a ministry of a 
 * **Session 1 **June 11- June 29 $TBD
 * **Session 2 **July 2 - July 20th $TBD
 * **Session 3 **July 23- August 10th $TBD
+* _\*Financial assistance is available to working families who meet income limits._
 
 You may register for each session.
 [Register Here!][2]
