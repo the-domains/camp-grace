@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Camp F.U.S.E doesn’t want any child turned away!
-dateModified: '2018-03-09T20:46:53.858Z'
-datePublished: '2018-03-09T20:46:54.257Z'
+dateModified: '2018-03-09T20:49:43.794Z'
+datePublished: '2018-03-09T20:49:44.370Z'
 title: Scholarships!
 author: []
 publisher: {}
