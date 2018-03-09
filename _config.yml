@@ -126,9 +126,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: >-
-  Summer Day Camp in SW Fort Worth. Find your purpose. Use your gifts. Share
-  your faith. Expand your knowledge.
+description: Find your purpose. Use your gifts. Share your faith. Expand your knowledge.
 purpose:
   - type: external
     url: >-
