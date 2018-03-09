@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-03-09T20:58:35.929Z'
-dateModified: '2018-03-09T20:58:35.446Z'
+datePublished: '2018-03-09T20:59:21.773Z'
+dateModified: '2018-03-09T20:59:21.363Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
-title: New? START HERE!
+title: START HERE!
 hasPage: true
 inFeed: true
 author: []
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68a7ac0-79cf-427f-8264-72dd00662d5d.jpg)
 
-# New? START HERE!
+# START HERE!
 
 ---
 
