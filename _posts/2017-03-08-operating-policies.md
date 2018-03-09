@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What to expect at Camp F.U.S.E!
-dateModified: '2018-03-09T20:48:51.285Z'
-datePublished: '2018-03-09T20:48:51.881Z'
+dateModified: '2018-03-09T20:59:48.768Z'
+datePublished: '2018-03-09T20:59:49.317Z'
 title: Operating Policies
 author: []
 publisher: {}
@@ -35,7 +35,8 @@ Camp is open to children ages 5-13 or entering kindergarten - 8th grades. Youth 
 
 * Session 1 June 12th -29th $40
 * Session 2 July 5th - 20th $35
-* Session 3 July 24th - Aug 10th $40_\*Financial assistance is available to working families who meet income limits._
+* Session 3 July 24th - Aug 10th $40
+* _\*Financial assistance is available to working families who meet income limits._
 
 Extended Fun available from 7:30am - 6 pm for $25 a week except for week 4 in which the cost is $10 ( paid online weekly by Monday morning ).
 
