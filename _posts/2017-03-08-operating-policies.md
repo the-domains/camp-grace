@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What to expect at Camp F.U.S.E!
-dateModified: '2018-03-09T20:59:48.768Z'
-datePublished: '2018-03-09T20:59:49.317Z'
+dateModified: '2018-03-09T21:08:33.734Z'
+datePublished: '2018-03-09T21:08:34.507Z'
 title: Operating Policies
 author: []
 publisher: {}
@@ -25,34 +25,32 @@ What to expect at Camp F.U.S.E!
 
 ## Hours, Days, and Months of Operation
 
-Camp F.U.S.E. operates Monday through Wednesday from 8-3pm and Thursday from 8-4:30 June 12th through August 10th.
+Camp F.U.S.E. operates Monday through Friday from 8-3pm from June 11 through August 10\.
 
 ## Eligibility, Enrollment and Attendance Procedures
 
-Camp is open to children ages 5-13 or entering kindergarten - 8th grades. Youth entering 9th -- 12th grade are able to attend F.U.S.I.O.N. leadership training and become a young camp leader (YCL). A parent / guardian must agree to abide by the policies and procedures set forth and are encouraged to attend a parents meeting. Camp fees must be paid by the first day of each session in order for your child to attend. There are No Refunds or late enrollments in a session!
+Camp is open to children ages 5-13 or entering kindergarten - 8th grades. Youth entering 9th -- 12th grade are able to attend F.U.S.I.O.N. leadership training and become a young camp leader (YCL). A parent / guardian must agree to abide by the policies and procedures set forth and are encouraged to attend a parents meeting. Camp fees must be paid the Friday before each session in order for your child to attend. There are No Refunds or late enrollments in a session but you can sign up and pay weekly.
 
 ## Cost
 
-* Session 1 June 12th -29th $40
-* Session 2 July 5th - 20th $35
-* Session 3 July 24th - Aug 10th $40
+* Session 1 June 12th -29th $TBD
+* Session 2 July 5th - 20th $TBD
+* Session 3 July 24th - Aug 10th $TBD
 * _\*Financial assistance is available to working families who meet income limits._
 
-Extended Fun available from 7:30am - 6 pm for $25 a week except for week 4 in which the cost is $10 ( paid online weekly by Monday morning ).
-
-Pay early and save big!
+Extended Fun available from 7:30am - 6 pm for $25 a week. (paid weekly by Monday morning).
 
 ## Late Policy
 
-Doors open for sign-in at 8:00am. In order for your child to receive breakfast, they must arrive no later than 8:30 am. Daily activities start at 8:30 and your child must arrive by 8:30 am. If a child is tardy more than 3 times they will be dismissed from camp and unable to enroll in another session. Your child must be picked up promptly by 3 pm except on Thursday in which the time is 4:30\. We extend grace until 3:10 pm. If you arrive after 3:10 or 4:40 on Thursday, you will be charged a late fee of $1 per minute that must be paid the next morning or your child cannot be signed in. If you know you will be running late, it is your responsibility to call and let the site coordinator know so we can work with you to avoid late fees. More than 3 late pickups will result in your child being dismissed from camp and not eligible to enroll in another session . If you have not called, or we have not been able to contact you after 3:30 or 4:40 on Thursday, your child will be taken to the police department.
+Doors open for sign-in at 8:00am. In order for your child to receive breakfast, they must arrive no later than 8:30 am. Daily activities start at 8:30 and your child must arrive by 8:30 am. If a child is tardy more than 3 times they will be dismissed from camp and unable to enroll in another session. Your child must be picked up promptly by 3 pm except on Thursday in which the time is 4:30\. We extend grace until 3:10 pm. If you arrive after 3:10, you will be charged a late fee of $1 per minute that must be paid the next morning or your child cannot be signed in. If you know you will be running late, it is your responsibility to call and let the site coordinator know so we can work with you to avoid late fees. More than 3 late pickups will result in your child being dismissed from camp and not eligible to enroll in another session . If you have not called, or we have not been able to contact you after 3:30, your child will be taken to the police department.
 
 ## Meals and Food Service Practices
 
-Meals are pre-packaged and are offered to every child. We will encourage your child to try new foods and use the sharing table to place unopened items on. Breakfast will always be a cold meal and is served from 8am to 8:30 am. Your child must arrive before 8:30 to eat breakfast. Lunch is served from 11:30-12 pm and will consist of two cold meals and two hot meals each week. Your child is able to bring their own lunch however; they cannot bring in any soda, chips, snack cakes or candy. We want to maintain a neutral environment and encourage healthy eating habits.
+Meals are pre-packaged and are offered to every child. We will encourage your child to try new foods and use the sharing table to place unopened items on. Breakfast will always be a cold meal and is served from 8am to 8:30 am. Your child must arrive before 8:30 to eat breakfast. Lunch is served from 1:00 - 1:30 in shifts and will consist of two cold meals and two hot meals each week. Your child is able to bring their own lunch however; they cannot bring in any soda, chips, snack cakes or candy. We want to maintain a neutral environment and encourage healthy eating habits.
 
 ## Discipline and Guidance Practices
 
-No physical discipline will ever be given to a child by any staff or volunteer at Camp F.U.S.E. We will redirect the child in their actions and if they cannot participate with the rest of the group they will be given a time out. In the case that your child is unable to abide by the rules, is being too disruptive or is causing harm to their self, another child or adult the parent or guardian on file will be contacted for immediate pickup of the child. We will not tolerate disrespect to oneself or another person. If the child has to be picked up they will not be able to return to camp on the next day and depending on the severity of the child's actions they may be dismissed from camp and unable to enroll in another session.
+No physical discipline will ever be given to a child by any staff or volunteer at Camp F.U.S.E. We will redirect the child in their actions and if they cannot participate with the rest of the group they will be given time out. In the case that your child is unable to abide by the rules, is being too disruptive or is causing harm to their self, another child or adult the parent or guardian on file will be contacted for immediate pickup of the child. We will not tolerate disrespect to oneself or another person. If the child has to be picked up they will not be able to return to camp on the next day and depending on the severity of the child's actions they may be dismissed from camp and unable to enroll in another session.
 
 ## Procedures for Release of Children
 
