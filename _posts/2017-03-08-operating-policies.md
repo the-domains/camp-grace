@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What to expect at Camp F.U.S.E!
-dateModified: '2018-03-09T21:08:33.734Z'
-datePublished: '2018-03-09T21:08:34.507Z'
+dateModified: '2018-03-09T21:15:26.972Z'
+datePublished: '2018-03-09T21:15:27.561Z'
 title: Operating Policies
 author: []
 publisher: {}
@@ -54,15 +54,15 @@ No physical discipline will ever be given to a child by any staff or volunteer a
 
 ## Procedures for Release of Children
 
-Children have to be signed in upon arrival and signed out upon departure by an adult parent or guardian. Because meal are open to the public, children who are not signed in will only be allowed to participate in meals but will have to leave the campus immediately following meal service.
+Children have to be signed in upon arrival and signed out upon departure by an adult parent or guardian. Because meals are open to the public, children who are not signed in will only be allowed to participate in meals but will have to leave the campus immediately following meal service.
 
 ## Activities
 
-Children will participate in outside / inside play and chapel daily. In addition to that, each day has its own theme: craft and cooking day, career day, movie day and wet 'n' messy day. It is important that you talk to your child about participating in the activities as well as asking them about their day. Chapel is required and is the basis of our program.
+Children will participate in outside and inside activities and chapel daily. In addition to that, each day will consist of chapel, computer lab learning time, games, crafts, small group discussion, career day speaker and other specialty events and activities. It is important that you talk to your child about participating in the activities as well as asking them about their day. Chapel is required and is the basis of our program.
 
 ## Attire
 
-All children must have on closed toe shoes that allow for running and playing. No flip flops.
+All children must have on closed toe shoes that allow for running and playing. No flip flops and no tank tops.
 
 ## Procedures for Dispensing Medication
 
@@ -70,7 +70,7 @@ Medication will not be administered by any staff or volunteer at Camp F.U.S.E. I
 
 ## Medical Emergencies
 
-In the case of an emergency, 911 will be called and you will be notified. Camp F.U.S.E. staff and volunteers will help with minor emergencies such as scrapes, cuts, bruises and head bumps requiring ice pack. An incident report will be written and go home with the child detailing the need for care.
+In the case of an emergency, 911 will be called and you will be notified. Camp F.U.S.E. staff and volunteers will help with minor injuries such as scrapes, cuts, bruises and head bumps requiring ice pack. An incident report will be written and go home with the child detailing the need for care.
 
 ## Transportation
 
@@ -78,7 +78,7 @@ You are responsible for dropping off and picking up your child each day. If you 
 
 ## Water Activities
 
-Thursday is our water activity days. Children will participate in activities that use: water balloons, sprinklers and other small scale water items. We will go to the YMCA to swim from 2- 4 pm each week for those who are interested.
+Friday is our water activity days. Children will participate in activities that use: water balloons, sprinklers and other small scale water items. We will go to the YMCA to swim from 2- 4 pm each week for those who are interested.
 
 ## Field Trips
 
@@ -90,10 +90,8 @@ There is the possibility of animals being on campus during career day if a veter
 
 ## The Procedures for Parents to Visit the Operation
 
-All parents or guardians must have completed volunteer training and orientation in order to visit the program. This is required because you will be around other children .We welcome your participation as a volunteer!
+All parents or guardians must have completed volunteer training, orientation in order to visit the program. This is required because you will be around other children .We welcome your participation as a volunteer!
 
 ## Questions or Concerns about the Policies and Procedures
 
 All families will be given a copy of the policies and procedures. If there are any questions please feel free to contact the Director to schedule a time outside of camp hours to discuss your concerns.
-
-Email_jordan@renovationcommunity.church_
