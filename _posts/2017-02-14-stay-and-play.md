@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Need to drop off or pick up your kids earlier or later?
-dateModified: '2018-04-02T17:10:39.105Z'
-datePublished: '2018-04-02T17:10:39.469Z'
+dateModified: '2018-04-02T18:15:17.295Z'
+datePublished: '2018-04-02T18:15:18.216Z'
 title: Extended Fun
 author: []
 publisher: {}
@@ -31,4 +31,4 @@ Scholarship rates apply. Read more about scholarships at [campfuse.com/scholarsh
 [Sign Up For Extended Fun!][1]
 
 [0]: http://campfuse.com/scholarships "http://campfuse.com/scholarships"
-[1]: https://renovationcommunity.easytitheplus.com/external/form/11f6f6a1-4a72-48ac-9bfa-178a4ba1d1e1
+[1]: https://renovationcommunity.easytitheplus.com/external/form/a6167582-2e6f-4cdc-9254-5787b8f7bcc0
