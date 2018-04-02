@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What to expect at Camp F.U.S.E!
-dateModified: '2018-04-02T17:17:02.720Z'
-datePublished: '2018-04-02T17:17:03.151Z'
+dateModified: '2018-04-02T17:17:04.340Z'
+datePublished: '2018-04-02T17:17:04.717Z'
 title: Operating Policies
 author: []
 publisher: {}
