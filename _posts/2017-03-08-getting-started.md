@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-02T17:06:36.785Z'
-dateModified: '2018-04-02T17:06:36.192Z'
+datePublished: '2018-04-02T17:08:49.548Z'
+dateModified: '2018-04-02T17:08:48.898Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
@@ -32,7 +32,7 @@ Camp F.U.S.E. is NOT a licensed childcare/daycare center; it is a ministry of a 
 
 ## Dates
 
-Camp FUSE runs Monday through Friday from 8 AM to 3:00 PM. 
+Camp FUSE runs Monday through Friday from 8 AM to 3:00 PM.
 
 June 10 through August 11\.
 
@@ -88,7 +88,7 @@ Join us for F.U.S.I.O.N and become a Young Camp Leader (YCL)!
 [0]: https://drive.google.com/file/d/0ByMq3lVSE7auaG8xaW5tcW1qRFk/view?usp=sharing
 [1]: http://renovationcommunity.church/
 [2]: http://campfuse.com/scholarships "http://campfuse.com/scholarships"
-[3]: https://renovationcommunity.easytitheplus.com/external/form/97df4dcb-456e-4785-9528-b4c79e79df6c
+[3]: https://renovationcommunity.easytitheplus.com/external/form/2d8875f2-ccbd-4c8d-a1d8-42bd902aa3e9
 [4]: http://campfuse.com/extended-fun
 [5]: http://campfuse.com/contact-us "here!"
 [6]: http://campfuse.com/fusion
