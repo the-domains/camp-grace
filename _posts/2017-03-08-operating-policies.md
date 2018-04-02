@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What to expect at Camp F.U.S.E!
-dateModified: '2018-03-09T21:15:26.972Z'
-datePublished: '2018-03-09T21:15:27.561Z'
+dateModified: '2018-04-02T17:17:02.720Z'
+datePublished: '2018-04-02T17:17:03.151Z'
 title: Operating Policies
 author: []
 publisher: {}
@@ -31,22 +31,13 @@ Camp F.U.S.E. operates Monday through Friday from 8-3pm from June 11 through Aug
 
 Camp is open to children ages 5-13 or entering kindergarten - 8th grades. Youth entering 9th -- 12th grade are able to attend F.U.S.I.O.N. leadership training and become a young camp leader (YCL). A parent / guardian must agree to abide by the policies and procedures set forth and are encouraged to attend a parents meeting. Camp fees must be paid the Friday before each session in order for your child to attend. There are No Refunds or late enrollments in a session but you can sign up and pay weekly.
 
-## Cost
-
-* Session 1 June 12th -29th $TBD
-* Session 2 July 5th - 20th $TBD
-* Session 3 July 24th - Aug 10th $TBD
-* _\*Financial assistance is available to working families who meet income limits._
-
-Extended Fun available from 7:30am - 6 pm for $25 a week. (paid weekly by Monday morning).
-
 ## Late Policy
 
-Doors open for sign-in at 8:00am. In order for your child to receive breakfast, they must arrive no later than 8:30 am. Daily activities start at 8:30 and your child must arrive by 8:30 am. If a child is tardy more than 3 times they will be dismissed from camp and unable to enroll in another session. Your child must be picked up promptly by 3 pm except on Thursday in which the time is 4:30\. We extend grace until 3:10 pm. If you arrive after 3:10, you will be charged a late fee of $1 per minute that must be paid the next morning or your child cannot be signed in. If you know you will be running late, it is your responsibility to call and let the site coordinator know so we can work with you to avoid late fees. More than 3 late pickups will result in your child being dismissed from camp and not eligible to enroll in another session . If you have not called, or we have not been able to contact you after 3:30, your child will be taken to the police department.
+Doors open for sign-in at 8:00am. In order for your child to receive breakfast, they must arrive no later than 8:30 am. Daily activities start at 8:30 and your child must arrive by 8:30 am. If a child is tardy more than 3 times they will be dismissed from camp and unable to enroll in another session. Your child must be picked up promptly by 3 pm. We extend grace until 3:10 pm. If you arrive after 3:10, you will be charged a late fee of $1 per minute that must be paid the next morning or your child cannot be signed in. If you know you will be running late, it is your responsibility to call and let the site coordinator know so we can work with you to avoid late fees. More than 3 late pickups will result in your child being dismissed from camp and not eligible to enroll in another session . If you have not called, or we have not been able to contact you after 3:30, your child will be taken to the police department.
 
 ## Meals and Food Service Practices
 
-Meals are pre-packaged and are offered to every child. We will encourage your child to try new foods and use the sharing table to place unopened items on. Breakfast will always be a cold meal and is served from 8am to 8:30 am. Your child must arrive before 8:30 to eat breakfast. Lunch is served from 1:00 - 1:30 in shifts and will consist of two cold meals and two hot meals each week. Your child is able to bring their own lunch however; they cannot bring in any soda, chips, snack cakes or candy. We want to maintain a neutral environment and encourage healthy eating habits.
+Meals are pre-packaged and are offered to every child. We will encourage your child to try new foods and use the sharing table to place unopened items on. Breakfast will always be a cold meal and is served from 8am to 8:30 am. Your child must arrive before 8:30 to eat breakfast. Lunch is served in shifts from from 12:00 - 1:30 and will consist of two cold meals and two hot meals each week. Your child is able to bring their own lunch however; they cannot bring in any soda, chips, snack cakes or candy. We want to maintain a neutral environment and encourage healthy eating habits.
 
 ## Discipline and Guidance Practices
 
@@ -62,7 +53,7 @@ Children will participate in outside and inside activities and chapel daily. In 
 
 ## Attire
 
-All children must have on closed toe shoes that allow for running and playing. No flip flops and no tank tops.
+All children must have on _**closed toe shoes**_ that allow for running and playing. No flip flops and no tank tops.
 
 ## Procedures for Dispensing Medication
 
@@ -78,7 +69,7 @@ You are responsible for dropping off and picking up your child each day. If you 
 
 ## Water Activities
 
-Friday is our water activity days. Children will participate in activities that use: water balloons, sprinklers and other small scale water items. We will go to the YMCA to swim from 2- 4 pm each week for those who are interested.
+Friday is our water activity days. Children will participate in activities that use: water balloons, sprinklers and other small scale water items. 
 
 ## Field Trips
 
@@ -94,4 +85,4 @@ All parents or guardians must have completed volunteer training, orientation in 
 
 ## Questions or Concerns about the Policies and Procedures
 
-All families will be given a copy of the policies and procedures. If there are any questions please feel free to contact the Director to schedule a time outside of camp hours to discuss your concerns.
+If there are any questions please feel free to contact the Director to schedule a time outside of camp hours to discuss your concerns.
