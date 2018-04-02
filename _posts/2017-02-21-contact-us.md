@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-03-09T20:49:10.182Z'
-dateModified: '2018-03-09T20:49:09.803Z'
+datePublished: '2018-04-02T17:17:57.716Z'
+dateModified: '2018-04-02T17:17:57.193Z'
 description: >-
   After reading our policies and FAQ page, please feel free to get in touch with
   us!
@@ -27,7 +27,7 @@ After reading our policies and FAQ page, please feel free to get in touch with u
 
 Email: [jordan@renovationcommunity.church][0]
 
-Office phone (not the best way to contact since we all work other jobs outside of church): 817-420-9822
+Office phone: 817-420-9822 (not the best way to contact since we all work other jobs outside of church and camp)
 
 Address: 6301 Granbury Road Fort worth, TX 76133
 
