@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-02T18:08:20.837Z'
-dateModified: '2018-04-02T18:08:20.186Z'
+datePublished: '2018-04-02T21:05:33.038Z'
+dateModified: '2018-04-02T21:05:32.493Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
@@ -36,9 +36,6 @@ Camp FUSE runs Monday through Friday from 8 AM to 3:00 PM.
 
 June 10 through August 11\.
 
-* **Session 1 **June 11- June 29 $TBD
-* **Session 2 **July 2 - July 20 $TBD
-* **Session 3 **July 23- August 10 $TBD
 * **Week 1: **June 11- June 15 $35
 * **Week 2:** June 18 - June 22 $35
 * **Week 3: **June 25 - June 29 $35
@@ -49,7 +46,13 @@ June 10 through August 11\.
 * **Week 8:** July 30 - August 3 $35
 * **Week 9: **August 6 -August 10 $35
 * _\*Financial assistance is available to working families who meet income limits. check out oru scholarship page here _[http://campfuse.com/scholarships][1]
-[Register Here!][2]
+
+## Cost
+
+Camp FUSE registration fee is based of a daily rate of $7/day but is paid by the week. Full price registration is _**$35/week**_ with scholarship rates available. Anybody who participated last year will see an increase in price, this is because we are making camp a better quality camp. 
+
+Extended Fun is $25/ a week for full registration
+[Register Here for Camp FUSE!][2]
 
 ---
 
