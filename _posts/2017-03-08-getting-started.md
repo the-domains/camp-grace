@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-02T17:08:49.548Z'
-dateModified: '2018-04-02T17:08:48.898Z'
+datePublished: '2018-04-02T18:08:20.837Z'
+dateModified: '2018-04-02T18:08:20.186Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
@@ -21,14 +21,14 @@ _type: Article
 
 ---
 
-[Schedule][0]
+<button data-role="cta" style="">Schedule</button>
 
 Serving Southwest Fort Worth and beyond, Camp F.U.S.E is a summer day camp that operates for 9 weeks and is conveniently located just off I-20 at 6301 Granbury Road, Fort Worth, TX 76133\.
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=32.65692&amp;longitude=-97.401731&amp;zoom=16&amp;address=6301%20Granbury%20Rd%2C%20Fort%20Worth%2C%20Texas%2076133%2C%20United%20States" style=""></iframe>
 
 Our campers explore new ways to have fun with indoor or outdoor activities all while building their character through biblical truths- one may call it an extended version of Vacation Bible School, but it much more than that! Each week we have daily themes, such as Craft & Cooking Day, Career Day, Movie Day, Wet and Messy Day.  
-Camp F.U.S.E. is NOT a licensed childcare/daycare center; it is a ministry of a new church, _**[Renovation Community][1]**_. We occupy the same building of a recently closed church...Grace Tabernacle Church of the Nazarene, which started the day camp in 2014\. Although Grace Tabernacle is now closed, Renovation Community (which has many former members of Grace Tabernacle) decided to continue this vital ministry to families in Southwest Fort Worth.
+Camp F.U.S.E. is NOT a licensed childcare/daycare center; it is a ministry of a new church, _**[Renovation Community][0]**_. We occupy the same building of a recently closed church...Grace Tabernacle Church of the Nazarene, which started the day camp in 2014\. Although Grace Tabernacle is now closed, Renovation Community (which has many former members of Grace Tabernacle) decided to continue this vital ministry to families in Southwest Fort Worth.
 
 ## Dates
 
@@ -36,9 +36,9 @@ Camp FUSE runs Monday through Friday from 8 AM to 3:00 PM.
 
 June 10 through August 11\.
 
-* **Session 1 **June 1- June 29 $TBD
-* **Session 2 **July 2 - July 20th $TBD
-* **Session 3 **July 23- August 10th $TBD
+* **Session 1 **June 11- June 29 $TBD
+* **Session 2 **July 2 - July 20 $TBD
+* **Session 3 **July 23- August 10 $TBD
 * **Week 1: **June 11- June 15 $35
 * **Week 2:** June 18 - June 22 $35
 * **Week 3: **June 25 - June 29 $35
@@ -48,8 +48,8 @@ June 10 through August 11\.
 * **Week 7:** July 23 - July 27 $35
 * **Week 8:** July 30 - August 3 $35
 * **Week 9: **August 6 -August 10 $35
-* _\*Financial assistance is available to working families who meet income limits. check out oru scholarship page here _[http://campfuse.com/scholarships][2]
-[Register Here!][3]
+* _\*Financial assistance is available to working families who meet income limits. check out oru scholarship page here _[http://campfuse.com/scholarships][1]
+[Register Here!][2]
 
 ---
 
@@ -58,7 +58,7 @@ June 10 through August 11\.
 Monday -- Friday 8 am- 3 pm
 
 Extended hours are available through our Extended Fun package for $25 per week except for week 4 in which the cost is $15\.
-[Read more and sign up for Extended Fun!][4]
+[Read more and sign up for Extended Fun!][3]
 
 ## Parent Meeting Dates
 
@@ -70,7 +70,7 @@ June 5 at 6:00 PM
 
 June 7 at 6:00 PM
 
-These meetings are not required but are highly encouraged. If you have questions after these dates have passed, please find our contact information [here!][5]
+These meetings are not required but are highly encouraged. If you have questions after these dates have passed, please find our contact information [here!][4]
 
 _Cash accepted at parent meeting only, otherwise register online with credit or debit card. If you choose to pay online, a convenience fee will be applied to the payment._
 
@@ -79,17 +79,16 @@ _Cash accepted at parent meeting only, otherwise register online with credit or 
 Camp F.U.S.E is open to children ages 5-13 entering kindergarten through 8th grade. If you are older then this but want to participate, check out FUSION below!
 
 Join us for F.U.S.I.O.N and become a Young Camp Leader (YCL)!
-[Read more and sign up for FUSION!][6]
+[Read more and sign up for FUSION!][5]
 
 ## HAVE MORE QUESTIONS?
 
-## **[GO TO OUR FAQ PAGE][7]**
+## **[GO TO OUR FAQ PAGE][6]**
 
-[0]: https://drive.google.com/file/d/0ByMq3lVSE7auaG8xaW5tcW1qRFk/view?usp=sharing
-[1]: http://renovationcommunity.church/
-[2]: http://campfuse.com/scholarships "http://campfuse.com/scholarships"
-[3]: https://renovationcommunity.easytitheplus.com/external/form/2d8875f2-ccbd-4c8d-a1d8-42bd902aa3e9
-[4]: http://campfuse.com/extended-fun
-[5]: http://campfuse.com/contact-us "here!"
-[6]: http://campfuse.com/fusion
-[7]: http://campfuse.com/faq "Optional("Frequently Asked Questions")"
+[0]: http://renovationcommunity.church/
+[1]: http://campfuse.com/scholarships "http://campfuse.com/scholarships"
+[2]: https://renovationcommunity.easytitheplus.com/external/form/2d8875f2-ccbd-4c8d-a1d8-42bd902aa3e9
+[3]: http://campfuse.com/extended-fun
+[4]: http://campfuse.com/contact-us "here!"
+[5]: http://campfuse.com/fusion
+[6]: http://campfuse.com/faq "Optional("Frequently Asked Questions")"
