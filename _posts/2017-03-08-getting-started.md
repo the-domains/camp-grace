@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-02T21:05:33.038Z'
-dateModified: '2018-04-02T21:05:32.493Z'
+datePublished: '2018-04-03T01:53:28.303Z'
+dateModified: '2018-04-03T01:53:27.648Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
@@ -49,19 +49,16 @@ June 10 through August 11\.
 
 ## Cost
 
-Camp FUSE registration fee is based of a daily rate of $7/day but is paid by the week. Full price registration is _**$35/week**_ with scholarship rates available. Anybody who participated last year will see an increase in price, this is because we are making camp a better quality camp. 
+Camp FUSE registration fee is based of a daily rate of $7/day but is paid by the week. Full price registration is _**$35/week**_ with scholarship rates available. Anybody who participated last year will see an increase in price, this is because we are making camp a better quality camp.
 
 Extended Fun is $25/ a week for full registration
-[Register Here for Camp FUSE!][2]
-
----
 
 ## Times
 
 Monday -- Friday 8 am- 3 pm
 
 Extended hours are available through our Extended Fun package for $25 per week except for week 4 in which the cost is $15\.
-[Read more and sign up for Extended Fun!][3]
+[Read more and sign up for Extended Fun!][2]
 
 ## Parent Meeting Dates
 
@@ -73,7 +70,7 @@ June 5 at 6:00 PM
 
 June 7 at 6:00 PM
 
-These meetings are not required but are highly encouraged. If you have questions after these dates have passed, please find our contact information [here!][4]
+These meetings are not required but are highly encouraged. If you have questions after these dates have passed, please find our contact information [here!][3]
 
 _Cash accepted at parent meeting only, otherwise register online with credit or debit card. If you choose to pay online, a convenience fee will be applied to the payment._
 
@@ -82,16 +79,15 @@ _Cash accepted at parent meeting only, otherwise register online with credit or 
 Camp F.U.S.E is open to children ages 5-13 entering kindergarten through 8th grade. If you are older then this but want to participate, check out FUSION below!
 
 Join us for F.U.S.I.O.N and become a Young Camp Leader (YCL)!
-[Read more and sign up for FUSION!][5]
+[Read more and sign up for FUSION!][4]
 
 ## HAVE MORE QUESTIONS?
 
-## **[GO TO OUR FAQ PAGE][6]**
+## **[GO TO OUR FAQ PAGE][5]**
 
 [0]: http://renovationcommunity.church/
 [1]: http://campfuse.com/scholarships "http://campfuse.com/scholarships"
-[2]: https://renovationcommunity.easytitheplus.com/external/form/2d8875f2-ccbd-4c8d-a1d8-42bd902aa3e9
-[3]: http://campfuse.com/extended-fun
-[4]: http://campfuse.com/contact-us "here!"
-[5]: http://campfuse.com/fusion
-[6]: http://campfuse.com/faq "Optional("Frequently Asked Questions")"
+[2]: http://campfuse.com/extended-fun
+[3]: http://campfuse.com/contact-us "here!"
+[4]: http://campfuse.com/fusion
+[5]: http://campfuse.com/faq "Optional("Frequently Asked Questions")"
