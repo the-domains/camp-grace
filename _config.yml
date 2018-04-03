@@ -133,8 +133,5 @@ purpose:
       https://renovationcommunity.easytitheplus.com/external/form/2d8875f2-ccbd-4c8d-a1d8-42bd902aa3e9
     label: 'Registration will open April 3, 2018'
   - type: external
-    label: >-
-      All information on our site currently reflects Summer 2017, please return
-      at registration opening for 2018 info!
-    url: >-
-      https://renovationcommunity.easytitheplus.com/external/form/38a6d201-25a3-45b5-8205-cdb984ceedc5
+    label: 'Volunteer '
+    url: 'http://campfuse.com/volunteering'
