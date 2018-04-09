@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Camp F.U.S.E doesn’t want any child turned away!
-dateModified: '2018-04-02T17:12:54.939Z'
-datePublished: '2018-04-02T17:12:55.586Z'
+dateModified: '2018-04-09T12:20:55.908Z'
+datePublished: '2018-04-09T12:20:56.532Z'
 title: Scholarships!
 author: []
 publisher: {}
@@ -31,8 +31,8 @@ To request a $1/day or $2.50/day scholarship, you must email the following infor
 * Bank statement
 * Letter from school stating your child is eligible for free/reduced lunch. If registering multiple children, please send letter for each child.
 
-### Extended Fun
+## Extended Fun
 
-Scholarship may also be applied to Extended Fun for $10/week or $15/week. 
+Scholarship may also be applied to Extended Fun for $10/week or $15/week.
 
 ## Email all documents with to **campscholarship@renovationcommunity.church**
