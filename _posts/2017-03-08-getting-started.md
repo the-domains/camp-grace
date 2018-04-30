@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-30T15:35:34.777Z'
-dateModified: '2018-04-30T15:35:33.280Z'
+datePublished: '2018-04-30T15:36:24.450Z'
+dateModified: '2018-04-30T15:36:23.550Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-03-08-getting-started.md
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzssKwjAQQNFfCbO3UbQK2nTlWnAlLtNkagJ5MZ0Q-veKur8c7uBn0hFF85adgv64BeHQvxwr2O96EAsZBY65LGcpW2vdmivXCTuTo8Q4oZXX9vRpPj0OtzuILzdlskgKPpgOITcFunIuQa8XgcnQWhjtJqL1-l_MNYTFEGIaB_l7Gt8ivjY6" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzssKwjAQQNFfCbO3UbQK2nTlWnAlLtNkagJ5MZ0Q-veKur8c7uBn0hFF85adgv64BeHQvxwr2O96EAsZBY65LGcpW2vdmivXCTuTo8Q4oZXX9vRpPj0OtzuILzdlskgKPpgOITcFunIuQa8XgcnQWhjtJqL1-l_MNYTFEGIaB_l7Gt8ivjY6" height="300" style=""></iframe>
 
 Serving Southwest Fort Worth and beyond, Camp F.U.S.E is a summer day camp that operates for 9 weeks and is conveniently located just off I-20 at 6301 Granbury Road, Fort Worth, TX 76133\.
 
